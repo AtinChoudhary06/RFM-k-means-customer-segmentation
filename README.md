@@ -2,9 +2,10 @@
 
 > Customer segmentation dashboard built in Power BI using RFM scoring and K-Means clustering on a real-world retail transaction dataset.
 
-![Power BI](overview1.png)
-![K-Means](kmeans.png)
-![RFM Analysis](rfm.png)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![K-Means](https://img.shields.io/badge/K--Means%20Clustering-0f6e56?style=flat)
+![RFM Analysis](https://img.shields.io/badge/RFM%20Analysis-1d9e75?style=flat)
+![Dataset](https://img.shields.io/badge/536K%20Transactions-blue?style=flat)
 
 
 ---
