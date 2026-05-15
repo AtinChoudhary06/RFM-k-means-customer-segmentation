@@ -25,6 +25,18 @@ This project applies **RFM (Recency, Frequency, Monetary)** analysis combined wi
 
 ---
 
+## 📸 Dashboard Preview
+
+### 🖥️ Dashboard Overview
+![Dashboard Overview](images/dashboard_overview.png)
+
+### 🔵 Cluster Scatter Plot
+![Cluster Scatter Plot](images/cluster_scatter.png)
+
+### 📊 RFM Distribution Charts
+![RFM Distribution](images/rfm_distribution.png)
+
+
 ## 📁 Files
 
 ```
